@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://static.macupdate.com/screenshots/342215/m/sweet-home-3d-screenshot.png?v=1659520624" alt="SweetHome3D screenshot"/>
+  <img src="https://mac-cdn.softpedia.com/screenshots/Sweet-Home-3D_7.jpg" alt="SweetHome3D screenshot"/>
 </p>
 
 ---
